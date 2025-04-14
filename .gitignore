@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+# Virtualenv
+venv/
+env/
+# IDE files
+.idea/
+.vscode/
+# Jupyter Notebook
+.ipynb_checkpoints/
+# Model files
+*.pkl
+*.h5
+# Data files
+*.csv
+*.tsv
+data/training.1600000.processed.noemoticon.csv
