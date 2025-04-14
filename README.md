@@ -37,5 +37,7 @@ After downloading, place the CSV file inside the data/ folder.
 If you'd like to train the sentiment analysis model yourself, run the train_model.py script:
 
 This will train the model and save the sentiment_model.pkl and vectorizer.pkl files that are used to classify tweets.
+
 4.Make Predictions 🧠
+
 Once the model is trained, you can use the app.py script to classify new tweets.
